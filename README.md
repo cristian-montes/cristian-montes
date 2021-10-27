@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <div>
   <h2 align="center"> Tech Stack</h2>
-  <p align="center"> <b>Languages</b>: JavaScript, Go, HTML, CSS</p>
-   <p align="center"><b>Frameworks/Libraries</b>: React, React Native, Express, Node, BootStrap</p>
+  <p align="center"> <b>Languages</b>: JavaScript, HTML, CSS</p>
+   <p align="center"><b>Frameworks/Libraries</b>: React, React Native, Express, Node</p>
    <p align="center"><b>Version Control</b>: GitHub</p>
-   <p align="center"><b>Tools</b>: Git, Slack, Netlify, Heroku, VS Code, Postman, Postico</p>
+   <p align="center"><b>Tools</b>: Git, Slack, Netlify, Heroku, VS Code, Postman, Postico, Beekeeper</p>
    <p align="center"><b>Dev Practices</b>: TDD, Pair Programming</p>
    <p align="center"><b>Databases</b>: PostgreSQL, MySQL</p>
    <p align="center"><b>Testing</b>: Jest, Supertest, GitHub CI</p>
