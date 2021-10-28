@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <h2 align="center"> Tech Stack</h2>
   <p align="center"> <b>Languages</b>: JavaScript, HTML, CSS</p>
    <p align="center"><b>Frameworks/Libraries</b>: React, Express, Node</p>
-   <p align="center"><b>Version Control</b>: GitHub</p>
-   <p align="center"><b>Tools</b>: Git, Slack, Netlify, Heroku, VS Code, Postman, Postico, Beekeeper</p>
+   <p align="center"><b>Version Control</b>: Git</p>
+   <p align="center"><b>Tools</b>: GitHub, Slack, Netlify, Heroku, VS Code, Postman, Postico, Beekeeper</p>
    <p align="center"><b>Dev Practices</b>: TDD, Pair Programming</p>
    <p align="center"><b>Databases</b>: PostgreSQL
 </p>
