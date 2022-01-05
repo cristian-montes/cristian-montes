@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div>
   <h2 align="center"> Tech Stack</h2>
-  <p align="center"> <b>Languages</b>: JavaScript, HTML, CSS</p>
+  <p align="center"> <b>Languages</b>: JavaScript, TypeScript, Haskell, HTML, CSS</p>
    <p align="center"><b>Frameworks/Libraries</b>: React, Express, Node</p>
    <p align="center"><b>Version Control</b>: Git</p>
    <p align="center"><b>Tools</b>: GitHub, Slack, Netlify, Heroku, VS Code, Postman, Postico, Beekeeper</p>
